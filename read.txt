@@ -1,4 +1,0 @@
-git add file1.txt
-git add file1.txt
-git add file1.txt
-git add file1.txt23423
