@@ -11,3 +11,6 @@ db.ini
 deploy_key_rsa
 # Dir
 test/
+
+# file
+ano.txt
